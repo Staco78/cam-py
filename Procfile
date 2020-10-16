@@ -1,1 +1,1 @@
-web: python cam-py.py runserver
+web: python test.py runserver
